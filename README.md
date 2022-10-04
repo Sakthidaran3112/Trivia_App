@@ -1,6 +1,6 @@
 # Navigation
 
-This is a Quiz app develooped for  [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012).
+This is a Quiz app developed for  [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012).
 
 ## Android Trivia 
 
